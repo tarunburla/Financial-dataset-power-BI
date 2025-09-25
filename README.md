@@ -4,6 +4,39 @@
 _An Interactive Power BI Dashboard for Sales Optimization_
 
 ---
+<h2><a class="anchor" id="table-of-contents"></a>Table of Contents</h2>
+
+<a href="#overview">Overview</a>
+
+<a href="#business-problem">Business Problem</a>
+
+<a href="#dataset">Dataset</a>
+
+<a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+
+<a href="#final-recommendations">Final Recommendations</a>
+
+<a href="#how-to-run-this-project">How to Run This Project</a>
+
+<a href="#author--contact">Author & Contact</a>
+
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+financial-products-analysis/
+│
+├── README.md
+├── .gitignore
+├── data/                         # Microsoft Sample Dataset
+│   └── financial_dataset.xlsx
+│
+├── dashboard/                    # Power BI dashboard file
+│   └── financial_analysis_dashboard.pbix
+│
+└── images/                       # Screenshots for documentation
+    └── dashboard_screenshot.png
+
+
+---
 
 ### Overview
 
