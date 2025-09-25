@@ -26,14 +26,10 @@ financial-products-analysis/
 │
 ├── README.md
 ├── .gitignore
-├── data/                         # Microsoft Sample Dataset
-│   └── financial_dataset.xlsx
-│
-├── dashboard/                    # Power BI dashboard file
-│   └── financial_analysis_dashboard.pbix
-│
-└── images/                       # Screenshots for documentation
-    └── dashboard_screenshot.png
+├── financial_dataset.xlsx        # Microsoft Sample Dataset
+├── financial_analysis_dashboard.pbix   # Power BI dashboard file
+└── dashboard_screenshot.png      # Dashboard screenshot
+
 
 
 ---
