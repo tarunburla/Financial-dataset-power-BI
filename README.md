@@ -25,7 +25,7 @@ This analysis focuses on optimizing the sales strategy by addressing key areas:
 
 ### Dataset
 
-* **Source:** Microsoft – Financial products dataset.
+* **Source:** Microsoft – Financial products dataset, downloadable from [Power BI Sample Financial Download](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download).
 * **Attributes:** segement, country, product, discount band, units sold, manufacturing, sale price, gross sales, discounts, sales, cogs, profits, date, year.
 * **Size:** $\approx$ 700 products sales.
 
@@ -43,6 +43,9 @@ This analysis focuses on optimizing the sales strategy by addressing key areas:
     → **France** is the most profitable country overall in the segment analysis.
 
 ---
+
+### Dashboard
+<img width="1217" height="695" alt="Screenshot 2025-09-25 233144" src="https://github.com/user-attachments/assets/69620b9f-2d9d-4bb9-9c00-e06bf81896fd" />
 
 ### Final Recommendations
 
@@ -62,4 +65,4 @@ This analysis focuses on optimizing the sales strategy by addressing key areas:
 
 **Tarun Burla**
 Data Analyst | Business Intelligence Enthusiast
-*Suggested GitHub Repo:* `github.com/TarunBurla/financial-products-analysis`
+*Suggested GitHub Repo:* [github.com/TarunBurla/financial-products-analysis](https://github.com/TarunBurla/financial-products-analysis)rla/financial-products-analysis`
