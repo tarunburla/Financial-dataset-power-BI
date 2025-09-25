@@ -22,15 +22,6 @@ _An Interactive Power BI Dashboard for Sales Optimization_
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-financial-products-analysis/
-│
-├── README.md
-├── .gitignore
-├── financial_dataset.xlsx        # Microsoft Sample Dataset
-├── financial_analysis_dashboard.pbix   # Power BI dashboard file
-└── dashboard_screenshot.png      # Dashboard screenshot
-
-
 
 ---
 
@@ -59,7 +50,21 @@ This analysis focuses on optimizing the sales strategy by addressing key areas:
 * **Size:** $\approx$ 700 products sales.
 
 ---
+### structure of the dataset
+```
+financial-products-analysis/
+│
+├── README.md
+├── .gitignore
+├── data/
+│   └── financial_dataset.xlsx        # Microsoft Sample Dataset
+├── dashboard/
+│   └── financial_analysis_dashboard.pbix   # Power BI dashboard file
+└── images/
+    └── dashboard_screenshot.png      # Dashboard screenshot
+```
 
+---
 ### Research Questions & Key Findings
 
 1.  **Top product by Profit contribution?**
